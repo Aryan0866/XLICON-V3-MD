@@ -17,8 +17,8 @@
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //*
  //  * @project_name : XLICON-V3-MD
- //  * @author : salmanytofficial
- //  * @youtube : https://www.youtube.com/@s4salmanyt
+ //  * @author : aryanrajpoot
+ //  * @tiktok : https://www.tiktok.com/@aryanrajpoot375?_t=8mHwY2A3l21&_r=1
 //   * @description : XLICON-V3 ,A Multi-functional whatsapp user bot.
 //*
 //* 
@@ -27,7 +27,7 @@
 //Instagram: unicorn_xeon13
 //Telegram: t.me/ahmmitech
 //GitHub: @salmanytofficial
-//WhatsApp: +923184070915
+//WhatsApp: +923151595788
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
 //   * Created By Github: DGXeon.
 //   * Credit To Xeon
@@ -52,11 +52,11 @@ global.location = process.env.GL_INFO || "Pakistan, Lahore, Sabzazar" //ur locat
 //________________________________________________________________________________________________________
 global.botname = process.env.BOT_NAME || 'XLICON-V3-MD' //ur bot name
 //________________________________________________________________________________________________________
-global.ownernumber = process.env.SUDO || '923184070915' //ur owner number
+global.ownernumber = process.env.SUDO || '923151595788' //ur owner number
 //________________________________________________________________________________________________________
-global.ownername = process.env.SUDO_NAME || 'Salman Ahmad' //ur owner name
+global.ownername = process.env.SUDO_NAME || 'Aryan Rajpoot' //ur owner name
 //________________________________________________________________________________________________________
-global.websitex = process.env.YT_LINK || "https://youtube.com/@s4salmanyt"
+global.websitex = process.env.TT_LINK || "https://www.tiktok.com/@aryanrajpoot375?_t=8mHwY2A3l21&_r=1"
 //________________________________________________________________________________________________________
 global.wagc = process.env.GL_PUSH || "https://whatsapp.com/channel/0029VaINgEZK0IBaK1nDtE3f"
 //________________________________________________________________________________________________________
@@ -68,13 +68,13 @@ global.botscript = process.env.GL_SC || 'https://github.com/salmanytofficial/XLI
 //________________________________________________________________________________________________________
 global.packname = process.env.PACK_NAME || "𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑"
 //________________________________________________________________________________________________________
-global.author = process.env.AUTHER_NAME || "ᗰᗩᗪE ᗷY 𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿"
+global.author = process.env.AUTHER_NAME || "ᗰᗩᗪE ᗷY ARYAN RAJPOOT"
 //________________________________________________________________________________________________________
-global.creator = process.env.GL_DEVS || "923184070915@s.whatsapp.net"
+global.creator = process.env.GL_DEVS || "923151595788@s.whatsapp.net"
 //________________________________________________________________________________________________________
 global.xprefix = process.env.PREFIX || '.'
 //________________________________________________________________________________________________________
-global.premium = process.env.GL_VIP || ["923184070915"] // Premium User
+global.premium = process.env.GL_VIP || ["923151595788"] // Premium User
 //________________________________________________________________________________________________________
 global.hituet = 0
 //________________________________________________________________________________________________________
